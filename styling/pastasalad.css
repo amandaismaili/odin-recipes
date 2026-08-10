@@ -1,0 +1,39 @@
+* {
+    background-color: aliceblue;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.back {
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    width: 45%;
+    height: 20%;
+}
+
+.photo-ing {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ingr {
+    display: block;
+}
+
+.ing-style {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+}
+
+.steps-style {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
